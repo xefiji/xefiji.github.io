@@ -7,10 +7,10 @@
         "email": "fxechappe@gmail.com",
         "phone": "",
         "url": "",
-        "summary": "",
+        "summary": "Senior Engineer with more than ten years experience, attracted and interested by user-centric products, technical challenge, building and learning stuffs with nice people. Tech, music and sport lover (as well as beer at the end of the day).",
         "location": {
             "countryCode": "FR",
-            "address": ""
+            "region": "⛰️"
         },
         "profiles": [
             {
@@ -114,7 +114,26 @@
         }
     ],
     "volunteer": [],
-    "education": [],
+    "education": [
+        {
+            "institution": "IFOCOP",
+            "area": "Software Development",
+            "startDate": "2011-01-01",
+            "endDate": "2012-01-01"
+        },
+        {
+            "institution": "Paris X - Nanterre",
+            "area": "IT and Communication Science",
+            "startDate": "2008-09-01",
+            "endDate": "2009-12-01"
+        },
+        {
+            "institution": "EHESS",
+            "area": "Social Science and Anthropology",
+            "startDate": "2003-09-01",
+            "endDate": "2007-12-01"
+        }
+    ],
     "awards": [],
     "certificates": [],
     "publications": [],
