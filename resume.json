@@ -1,0 +1,184 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "F-Xavier Echappé",
+      "label": "Senior Software Engineer chez Ankorstore",
+      "image": "",
+      "email": "fxechappe@gmail.com",
+      "phone": "",
+      "url": "",
+      "summary": "",
+      "location": {
+        "countryCode": "FR",
+        "address": ""
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "fxechappe",
+          "url": "https://www.linkedin.com/in/fxechappe/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Ankorstore",
+        "position": "Senior Software Engineer",
+        "startDate": "2022-05-31",
+        "endDate": "",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/ankorstore/"
+      },
+      {
+        "name": "Lydia",
+        "position": "Back-end Developer",
+        "startDate": "2021-01-31",
+        "endDate": "2022-05-31",
+        "highlights": [],
+        "summary": "Back-end development and design of micro-services (Golang/Php), deployed on GCP. Objective is to split existing monoliths and modernize services. Development and maintenance of legacy stacks (Php/Symfony)\nEng. management of a team of five developers within the “payment” squad.\nDomains: payment, fraud, credit card, PCI/DSS, transactions, SEPA\nStack: Golang, Symfony, Postgres/Mariadb, Redis, PubSub, RabbitMQ, ElasticSearch, Docker, Kubernetes",
+        "url": "https://www.linkedin.com/company/lydia/"
+      },
+      {
+        "name": "Enigmatic - Prospectiva",
+        "position": "Developer  - project manager",
+        "startDate": "2016-06-30",
+        "endDate": "2021-01-31",
+        "highlights": [],
+        "summary": "Full-stack development with Symfony of several HR/Interim dematerialization platforms.\nR&D and implementation of  CQRS and event-sourcing systems in modern and legacy applications.\nProject management, agile methods (Scrum/Kanban), technical supervision of developers, development of internal libraries, code reviews.\nStack: Symfony/ApiPlatform, VueJS/React, Mariadb, Redis, RabbitMQ, ElasticSearch,Docker",
+        "url": "https://www.prospectiva.io/",
+        "location": "Grenoble"
+      },
+      {
+        "name": "Dalenys",
+        "position": "Développeur",
+        "startDate": "2011-06-30",
+        "endDate": "2016-06-30",
+        "highlights": [],
+        "summary": "Full-stack development of an e-mailing routing platform that manages 12 email databases.\ndevelopment of queuing and batch processing workers\nCampaign creation, deliverability, tracking, statistical interface, tracking for SMS sending campaigns\nInternal/external APIs and registration/modification/unsubscribe webservices; front office ergonomy\nParticipation in the redesign of a community site: development of modules, integration, optimizations.\nDevelopment of administration modules, creation of e-mail campaigns, administration of co-registration, optimizations (consoclient.com/ eperflex.com)\nStack: Laravel, Mysql, Redis, Beanstalkd, Python, Javascript",
+        "url": "https://www.linkedin.com/company/payplug-ex-dalenys/"
+      },
+      {
+        "position": "Freelance Developer",
+        "startDate": "2010-12-31",
+        "endDate": "2016-04-30",
+        "highlights": [],
+        "summary": "Back-end development and integration of management tools, statistics and backoffice modules for communication agencies and NGOs.\nDevelopment and front-end integration of registration modules, membership, online payment. Various integrations for several customers (sites, newsletters); email campaign management and statistical monitoring.\nStack: PHP, CMS(wordpress/spip), Mysql, Javascript, Python",
+        "url": ""
+      }
+    ],
+    "volunteer": [],
+    "education": [],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+      {
+        "name": "WordPress",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "SPIP",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Mysql",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Laravel",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Redis",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Beanstalkd",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Python",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "PHP",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "ApiPlatform",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "VueJs",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Elasticsearch",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "CQRS",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "DDD",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Golang",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Symfony",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Kubernetes",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "GCP",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "fr",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
