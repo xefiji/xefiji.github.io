@@ -32,6 +32,7 @@
             "startDate": "2022-05-31",
             "endDate": "",
             "highlights": [],
+            "summary": "Back-end development.\n\nStack: PHP/Laravel, Golang, Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes",
             "url": "https://www.linkedin.com/company/ankorstore/",
             "keywords": [
                 "Laravel",
@@ -48,7 +49,7 @@
             "startDate": "2021-01-31",
             "endDate": "2022-05-31",
             "highlights": [],
-            "summary": "Back-end development and design of micro-services (Golang/Php), deployed on GCP. Objective is to split existing monoliths and modernize services. Development and maintenance of legacy stacks (Php/Symfony)\nEng. management of a team of five developers within the “payment” squad.\nDomains: payment, fraud, credit card, PCI/DSS, transactions, SEPA\nStack: Golang, Symfony, Postgres/Mariadb, Redis, PubSub, RabbitMQ, ElasticSearch, Docker, Kubernetes",
+            "summary": "Back-end development and design of micro-services (Golang/Php), deployed on GCP. Objective is to split existing monoliths and modernize services. Development and maintenance of legacy stacks (Php/Symfony)\nEng. management of a team of five developers within the “payment” squad.\nDomains: payment, fraud, credit card, PCI/DSS, transactions, SEPA\n\nStack: Golang, Symfony, Postgres/Mariadb, Redis, PubSub, RabbitMQ, ElasticSearch, Docker, Kubernetes",
             "url": "https://www.linkedin.com/company/lydia/",
             "keywords": [
                 "Golang",
@@ -65,7 +66,7 @@
             "startDate": "2016-06-30",
             "endDate": "2021-01-31",
             "highlights": [],
-            "summary": "Full-stack development with Symfony of several HR/Interim dematerialization platforms.\nR&D and implementation of  CQRS and event-sourcing systems in modern and legacy applications.\nProject management, agile methods (Scrum/Kanban), technical supervision of developers, development of internal libraries, code reviews.\nStack: Symfony/ApiPlatform, VueJS/React, Mariadb, Redis, RabbitMQ, ElasticSearch,Docker",
+            "summary": "Full-stack development with Symfony of several HR/Interim dematerialization platforms.\nR&D and implementation of  CQRS and event-sourcing systems in modern and legacy applications.\nProject management, agile methods (Scrum/Kanban), technical supervision of developers, development of internal libraries, code reviews.\n\nStack: Symfony/ApiPlatform, VueJS/React, Mariadb, Redis, RabbitMQ, ElasticSearch,Docker",
             "url": "https://www.prospectiva.io/",
             "location": "Grenoble",
             "keywords": [
@@ -86,7 +87,7 @@
             "startDate": "2011-06-30",
             "endDate": "2016-06-30",
             "highlights": [],
-            "summary": "Full-stack development of an e-mailing routing platform that manages 12 email databases.\ndevelopment of queuing and batch processing workers\nCampaign creation, deliverability, tracking, statistical interface, tracking for SMS sending campaigns\nInternal/external APIs and registration/modification/unsubscribe webservices; front office ergonomy\nParticipation in the redesign of a community site: development of modules, integration, optimizations.\nDevelopment of administration modules, creation of e-mail campaigns, administration of co-registration, optimizations (consoclient.com/ eperflex.com)\nStack: Laravel, Mysql, Redis, Beanstalkd, Python, Javascript",
+            "summary": "Full-stack development of an e-mailing routing platform that manages 12 email databases.\ndevelopment of queuing and batch processing workers\nCampaign creation, deliverability, tracking, statistical interface, tracking for SMS sending campaigns\nInternal/external APIs and registration/modification/unsubscribe webservices; front office ergonomy\nParticipation in the redesign of a community site: development of modules, integration, optimizations.\nDevelopment of administration modules, creation of e-mail campaigns, administration of co-registration, optimizations (consoclient.com/ eperflex.com)\n\nStack: Laravel, Mysql, Redis, Beanstalkd, Python, Javascript",
             "url": "https://www.linkedin.com/company/payplug-ex-dalenys/",
             "keywords": [
                 "Laravel",
@@ -102,7 +103,7 @@
             "startDate": "2010-12-31",
             "endDate": "2016-04-30",
             "highlights": [],
-            "summary": "Back-end development and integration of management tools, statistics and backoffice modules for communication agencies and NGOs.\nDevelopment and front-end integration of registration modules, membership, online payment. Various integrations for several customers (sites, newsletters); email campaign management and statistical monitoring.\nStack: PHP, CMS(wordpress/spip), Mysql, Javascript, Python",
+            "summary": "Back-end development and integration of management tools, statistics and backoffice modules for communication agencies and NGOs.\nDevelopment and front-end integration of registration modules, membership, online payment. Various integrations for several customers (sites, newsletters); email campaign management and statistical monitoring.\n\nStack: PHP, CMS(wordpress/spip), Mysql, Javascript, Python",
             "url": "",
             "keywords": [
                 "Php",
