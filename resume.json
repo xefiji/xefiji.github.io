@@ -32,7 +32,7 @@
             "startDate": "2022-05-31",
             "endDate": "",
             "highlights": [],
-            "summary": "Back-end development.\n\nStack: PHP/Laravel, Golang, Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes",
+            "summary": "Doing back-end development in the payment/fintech team (dealing with Checkouts, Stripe, BNPL and money in general 🙂).\n\nStack: PHP/Laravel, Golang, Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes",
             "url": "https://www.linkedin.com/company/ankorstore/",
             "keywords": [
                 "Laravel",
