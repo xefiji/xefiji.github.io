@@ -29,7 +29,7 @@
         {
             "name": "Alma",
             "position": "Senior Software Engineer",
-            "startDate": "2025-05-15",
+            "startDate": "2025-03-15",
             "endDate": "",
             "highlights": [],
             "summary": "Back-end development in the consumer experience squad; we own the checkout and consumer portal flows!\n\nStack: Python, FastAPI, Flask, PostgreSQL, GCP, Datadog, Docker",
