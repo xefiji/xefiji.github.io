@@ -27,10 +27,27 @@
     },
     "work": [
         {
+            "name": "Alma",
+            "position": "Senior Software Engineer",
+            "startDate": "2025-05-15",
+            "endDate": "",
+            "highlights": [],
+            "summary": "Back-end development in the consumer experience squad; we own the checkout and consumer portal flows!\n\nStack: Python, FastAPI, Flask, PostgreSQL, GCP, Datadog, Docker",
+            "url": "https://www.linkedin.com/company/almapay",
+            "keywords": [
+                "Python",
+                "DDD",
+                "FastAPI",
+                "Flask",
+                "PostgreSQL",
+                "Docker"
+            ]
+        },
+        {
             "name": "Ankorstore",
             "position": "Senior Software Engineer",
             "startDate": "2022-05-31",
-            "endDate": "",
+            "endDate": "2025-03-15",
             "highlights": [],
             "summary": "Doing back-end development in the payment/fintech team (dealing with Checkouts, Stripe, BNPL and money in general 🙂).\n\nStack: PHP/Laravel, Golang, Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes",
             "url": "https://www.linkedin.com/company/ankorstore/",
